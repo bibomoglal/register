@@ -1,0 +1,7 @@
+{
+  "appId": "io.github.bibomoglal.brightstarwifi",
+  "appName": "Bright Star WiFi",
+  "webDir": "www",
+  "server": { "androidScheme": "http", "cleartext": true },
+  "plugins": { "CapacitorHttp": { "enabled": true } }
+}
